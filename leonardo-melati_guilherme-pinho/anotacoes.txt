@@ -1,0 +1,5 @@
+> mel em cm3 e diametro em cm
+< altura em cm e area da entrada
+n = 3.14
+
+formula = altura = volume / (pi . raio^2)
