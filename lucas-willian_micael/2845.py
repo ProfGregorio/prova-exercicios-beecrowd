@@ -32,5 +32,3 @@ def descobrir_duende(N, lista):
 N = int(input())
 lista = list(map(int, input().split()))
 print(descobrir_duende(N, lista))
-
-.
